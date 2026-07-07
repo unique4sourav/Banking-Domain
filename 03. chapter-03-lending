@@ -1,0 +1,95 @@
+# Chapter 3: Lending
+
+At the end of the last chapter we said that lending keeps its truth inside the bank, as retail does, but that lending's truth begins to move with time. That single difference is the theme of this chapter. In retail, an account balance stood perfectly still between movements. It changed only when the bank recorded something. In lending, the amount a borrower owes changes on its own, as days pass, even when no one acts. This is the first time in our tour that state moves by itself.
+
+There is a second idea, just as important, that sits beside the first. Although a loan's state moves on its own, it moves in a way we can know in advance. Given the terms of a loan on the day it begins, we can work out its whole future. Lending is movement without surprise. Holding both of these ideas together, movement but known movement, is what prepares us for wealth, where movement is real but can no longer be known ahead of time.
+
+In this chapter we look at what a loan is, and at the parts that make it up. We look at the two main shapes a loan can take. We follow a loan through its life, from the moment it is granted to the moment it is repaid. Then we study the two things that make lending genuinely hard. We finish by placing lending on the map we are building, between retail behind us and wealth ahead.
+
+## What a Loan Is
+
+A loan is simple to state. The bank gives the borrower a sum of money now. The borrower returns that money later, together with an extra amount for the use of it. The sum the bank gives is called the principal. The extra amount is called interest. Repayment is spread over a period of time, which we call the term.
+
+It helps to be clear about why interest exists at all. When the bank lends, it gives up the use of its money for the length of the term. It also takes a risk, because the borrower might not repay. Interest is the price of both of these. It pays the bank for waiting, and it pays the bank for the risk it carries. The higher the risk, the higher the interest the bank will ask.
+
+Interest is set by a rate. The rate is a percentage applied to the money owed over a period, usually a year. A loan can carry a fixed rate or a variable rate, and the difference matters to us.
+
+A fixed rate is set once, at the start, and does not change for the life of the loan. With a fixed rate, the cost of borrowing is settled at the start and never moves.
+
+A variable rate can change during the life of the loan. It is usually tied to a published reference rate, plus a fixed margin the bank adds. When the reference rate moves, the loan's rate moves with it, and the payments change. This is a small but real exception to the idea of a fully known future. A fixed-rate loan can be worked out completely in advance. A variable-rate loan can only be worked out for as long as the rate holds, because the reference rate comes from outside the loan. We will meet this idea of an outside reference again, in a much stronger form, when we reach wealth.
+
+Whatever the rate, the true record of a loan is its agreement. The agreement fixes the principal, the rate, the term, how often payments are due, and how much each payment is. Once the loan begins, its state, how much is still owed and what is due next, follows from that agreement and the payments made so far. In retail, the ledger was the source of truth. In lending, the source of truth is the agreement, read together with the history of payments against it.
+
+## The Shape of What Is Owed
+
+A loan's terms describe money owed, but different loans hold that money in different shapes. Two shapes cover most lending. In the first, the debt has a fixed plan and shrinks to zero. In the second, the debt has no fixed end and moves up and down. Knowing which shape a loan has tells us most of what we need to know about how it behaves.
+
+### Installment Loans: A Fixed Schedule
+
+An installment loan has a clear plan from the start. The borrower receives the whole principal at once. They then repay it in equal, regular payments, the installments, until the balance reaches zero. A home loan, a car loan, and a standard personal loan all work this way.
+
+The plan is called an amortization schedule. The word amortization means the gradual paying down of a debt through regular payments. The schedule lists every payment across the whole term. For each one, it shows the date, the payment amount, how much of that payment is interest, how much is principal, and the balance that remains afterward.
+
+The interesting part is how each payment is split. The payment amount usually stays the same every period. But the split inside it does not. Interest is charged on the balance still owed. Early in the loan, the balance is large, so the interest part of each payment is large, and only a little goes to principal. As the balance falls, the interest part shrinks, and more of each payment goes to principal. The payment is steady on the outside, but inside it shifts steadily from interest toward principal.
+
+A short example makes this clear. Suppose we borrow 1,200 at a rate of one percent per month, to be repaid over twelve equal monthly payments. Each monthly payment is about 106.62. The first few periods look like this.
+
+| Payment | Amount | Interest | Principal | Balance after |
+|---|---|---|---|---|
+| Start | — | — | — | 1,200.00 |
+| 1 | 106.62 | 12.00 | 94.62 | 1,105.38 |
+| 2 | 106.62 | 11.05 | 95.57 | 1,009.81 |
+| 3 | 106.62 | 10.10 | 96.52 | 913.29 |
+| 4 | 106.62 | 9.13 | 97.49 | 815.80 |
+
+We can see the shift. The payment does not change, but the interest column falls and the principal column rises with each period. In a long loan, such as a home loan over many years, this effect is far stronger. In the early years, almost the entire payment is interest, and the balance falls very slowly. Only later does real principal begin to come down.
+
+The point that matters most for us is this. The whole of this schedule can be worked out on the first day. Given the principal, the rate, and the term, every future payment, every split, and every remaining balance is already determined. The loan's state will move through this schedule as time passes. But nothing in it is unknown. We are not waiting to find out what happens. We could print the entire future now.
+
+### Revolving Credit: A Moving Balance
+
+Not every loan has a fixed schedule. The second shape is revolving credit, and it behaves quite differently. Instead of receiving a fixed sum once, the borrower is given a limit, the most they are allowed to owe at any time. They can borrow up to that limit, repay some or all of it, and then borrow again. The balance rises when they borrow and falls when they repay. There is no set end date and no fixed plan to reach zero.
+
+A credit card is the most familiar example. So is a line of credit. Interest is charged on the balance that is actually owed, not on the limit. Each period, the borrower must pay at least a small minimum amount, but they may pay more, up to the whole balance. If they repay the whole balance, they may owe no interest at all for that period. If they carry a balance, interest is charged on it.
+
+Revolving credit is still lending by our definition. Money goes out now, and it is repaid over time, with interest. But its state does not follow a schedule set in advance. It follows the borrower's own choices, how much they borrow and how much they repay, period by period. In this way it is less predictable than an installment loan, because its future depends on choices the borrower has not yet made. The credit card, we should note, is also a payment instrument. When it pays a shop, it looks much like a debit card. That double life places it across two categories, and we return to it in Chapter 5.
+
+## The Life of a Loan
+
+A loan is not a single event. It has a life, with stages, and it is useful to see the whole of it. Much of what falls under lending is really one of these stages.
+
+A loan begins with origination. The borrower asks for a loan. The bank must then decide whether to grant it, and on what terms. This decision is called underwriting. In underwriting, the bank assesses whether the borrower is able and likely to repay. It looks at income, at debts the borrower already has, and at their past record of repaying, often summarized as a credit score. For a secured loan, it also considers the value of the asset that will back the loan. This assessment is central to lending. More than anything else, lending is the business of judging risk and setting a price for it. If the bank approves, an agreement is signed, and the principal is disbursed, handed to the borrower.
+
+Here we should notice a link back to retail. When the principal is disbursed, and later when each payment is made, the money moves along the very rails retail gave us. A loan does not invent its own way to move money. It uses deposits, transfers, and the other rails already in place. Lending adds the agreement, the schedule, and the judgment of risk on top of retail's movement of money.
+
+After origination comes servicing. This is the long middle of a loan's life, and most of a loan's existence is spent here. During servicing, interest builds up over time, statements are produced, payments arrive and are applied, and the balance is tracked against the agreement. When all goes well, servicing is quiet and regular. The schedule simply proceeds as planned.
+
+Not every loan goes well. If payments stop arriving, the loan enters a troubled path that can end in default. Because this path is one of the hard parts of lending, we look at it closely in the next section rather than here.
+
+A loan ends with payoff. Most often this happens on schedule, when the final payment brings the balance to zero. It can also happen early. A borrower may choose to repay faster than required, or to repay the whole balance at once. This is called prepayment. Prepayment is the main way a borrower can disturb the known schedule we described earlier. By paying early, they reduce the remaining balance sooner, which reduces the interest still to come. Some loans add a penalty for this, to make up for the interest the bank loses. Either way, once the balance reaches zero, the loan is closed.
+
+## What Makes Lending Hard
+
+Lending has two difficulties that stand out. Both come from the same cause: time. In retail, difficulty came from movement between accounts. In lending, difficulty comes from the passing of days.
+
+The first difficulty is that the amount owed changes on its own. Interest accrues. To accrue means to build up gradually over time. In most loans, interest accrues every day, on the balance owed. This has a consequence worth stating plainly. If a borrower looks at their loan today, does nothing at all, and looks again in a week, they will owe more the second time. No payment was made. No action was taken. Time alone increased the debt. This never happened in retail, where a balance held still until the bank recorded a movement. In lending, the state moves by itself.
+
+And yet, as we have said, this movement is fully known. We can say today exactly how much interest will accrue tomorrow, and the day after, and every day until the loan ends. The debt moves on its own, but it does not surprise us. This is the exact property that wealth will not share. There too, value will move on its own. But there, we will not be able to say in advance where it will go, because something outside us will decide it. The daily accrual of interest is our clearest picture, so far, of state that moves on a schedule we already hold.
+
+The second difficulty is what happens when payments stop. A missed payment does not leave the loan unchanged. It starts the loan down a path of clearly defined stages. The loan may first enter a short grace period, during which a late payment is still accepted without harm. If the payment still does not come, the loan becomes delinquent, and it is counted by how many days it is past due. Late fees may be added. Penalty interest may begin. The delinquency is reported and damages the borrower's credit record. If enough time passes with no payment, the loan falls into default. At that point the bank acts to recover what it is owed. For an unsecured loan, this leads to collections. For a secured loan, the bank may take the asset that backs the loan. A home can be taken through foreclosure. A car can be taken through repossession.
+
+This path is driven by two things at once: time, measured as days past due, and events, such as a payment finally arriving or not. It has many stages, many rules, and many exceptions. A large part of a lending system's care goes into handling it correctly. We do not need every rule here. We only need to see the shape. A loan in trouble moves through states, and each state carries its own consequences and its own next steps.
+
+## Where Lending Sits, and What Comes Next
+
+We can now place lending on the map, between the two categories on either side of it.
+
+Retail sat still. Its truth lived inside the bank, in the ledger, and it changed only when a movement was recorded. Between movements, it was fixed.
+
+Lending moves, but along a known path. Its truth also lives inside the bank, in the agreement and the record of payments. Unlike retail, it changes with time on its own, chiefly through the daily build-up of interest. But that change is settled in advance. Given a loan's terms, its future is already written.
+
+Wealth, which we reach next, will keep the movement but lose the certainty. Its truth will not live inside the bank at all. It will live outside, in the market. Its value will move on its own, as lending's did, but we will no longer be able to write its future in advance, because we will not be the ones who decide it.
+
+We can also see, once more, how these categories build on one another. Lending did not replace retail. It used retail's rails to move money in and out, and it added its own ideas on top: the agreement, the schedule, the accrual of interest, and the judgment of risk. Wealth will do the same. It will lean on what retail and lending have already put in place, and it will add ideas of its own that neither of them needed.
+
+With retail and lending both mapped, we are ready for the third category, and the one this book was written for. In the next chapter we take a broad survey of wealth. We keep it wide rather than deep, so that we can see the whole of it before we begin, in the chapters that follow, to study its parts one by one.
